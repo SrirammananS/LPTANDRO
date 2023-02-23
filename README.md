@@ -1,7 +1,7 @@
 # LPTANDRO
 
 ### Description
-LPTANDRO is a script that automates the process of scanning and analyzing Android applications using AndroBugs and MobSF frameworks. It uploads the APK file to MobSF, extracts various security reports and outputs them into a selected folder.
+LPTANDRO is a tool that automates the process of scanning and analyzing Android applications using AndroBugs and MobSF frameworks. It uploads the APK file to MobSF, extracts various security reports and outputs them into a selected folder.
 
 ### Prerequisites
 - Python 2
