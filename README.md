@@ -1,14 +1,14 @@
 # LPTANDRO
 
-## Description
+### Description
 LPTANDRO is a script that automates the process of scanning and analyzing Android applications using AndroBugs and MobSF frameworks. It uploads the APK file to MobSF, extracts various security reports and outputs them into a selected folder.
 
-## Prerequisites
+### Prerequisites
 - Python 2
 - MobSF
 - Androbug
 
-## Installation
+### Installation
 To install the script, simply clone or download the repository.
 
 ````
@@ -25,7 +25,7 @@ chmod +x LPTANDRO
 ./LPTANDRO
 ````
 
-## Usage
+### Usage
 Once you have run the script, it will do the following:
 
 - Check if the required dependencies are installed.
@@ -36,5 +36,5 @@ Once you have run the script, it will do the following:
 - Analyze the APK file using MobSF API.
 - Extract various security reports and save them in the selected folder.
  
-## License
+### License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/SrirammananS/LPTANDRO/blob/main/licence) file for details.
