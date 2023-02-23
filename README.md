@@ -8,6 +8,19 @@ Python 2
 MobSF
 Androbug
 
+# Installation
+To install the script, simply clone or download the repository.
+https://github.com/SrirammananS/LPTANDRO.git
+
+To run the script, make it executable and run it.
+
+Make sure the script has execute permissions, if not you can run this command to give execute permissions to the file
+
+cd 
+chmod +x MultiSSL_Scanner 
+./Multissl_Scanner
+
+
 # Getting Started
 Clone the repository
 Run the script with the following command:
