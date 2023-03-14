@@ -23,7 +23,7 @@ To run the tool, make it executable and run it.
 
 ````
 cd LPTANDRO
-chmod +x LPTANDROv2.0
+chmod +x LPTANDROv2
 ./LPTANDRO
 ````
 
