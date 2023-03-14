@@ -4,12 +4,13 @@
 
 
 ### Description
-LPTANDRO is a tool that automates the process of scanning and analyzing Android applications using AndroBugs and MobSF frameworks. It uploads the APK file to MobSF, extracts various security reports and outputs them into a selected folder.
+LPTANDRO is a tool that automates the process of scanning and analyzing Android applications using AndroBugs, apkmitm and MobSF frameworks. It uploads the APK file to MobSF, extracts various security reports and outputs them into a selected folder.
 
 ### Prerequisites
 - Python 2
 - MobSF
 - Androbug
+- apkmitm
 
 ### Installation
 To install the script, simply clone or download the repository.
@@ -22,7 +23,7 @@ To run the tool, make it executable and run it.
 
 ````
 cd LPTANDRO
-chmod +x LPTANDRO 
+chmod +x LPTANDROv2.0
 ./LPTANDRO
 ````
 
